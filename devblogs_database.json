@@ -1,335 +1,1045 @@
 {
+  "50": {
+    "devblog": 50,
+    "date": "2015-03-05",
+    "protocol": 1228,
+    "commit_sha": "6d8282c7",
+    "repo": "OxideMod/Oxide"
+  },
+  "51": {
+    "devblog": 51,
+    "date": "2015-03-13",
+    "protocol": 1229,
+    "commit_sha": "17fbd94a",
+    "repo": "OxideMod/Oxide"
+  },
+  "52": {
+    "devblog": 52,
+    "date": "2015-03-19",
+    "protocol": 1230,
+    "commit_sha": "7c710f34",
+    "repo": "OxideMod/Oxide"
+  },
   "53": {
     "devblog": 53,
     "date": "2015-03-26",
-    "protocol": 1238,
-    "commit_sha": "8d9bf16c",
-    "repo": "OxideMod/Oxide",
-    "title": "Кодовые замки, баррикады",
-    "notes": "Ранний Rust Reboot"
+    "protocol": 1231,
+    "commit_sha": "e2ba86ba",
+    "repo": "OxideMod/Oxide"
+  },
+  "54": {
+    "devblog": 54,
+    "date": "2015-04-02",
+    "protocol": 1234,
+    "commit_sha": "f3554420",
+    "repo": "OxideMod/Oxide"
+  },
+  "55": {
+    "devblog": 55,
+    "date": "2015-04-09",
+    "protocol": 1236,
+    "commit_sha": "8ee70072",
+    "repo": "OxideMod/Oxide"
+  },
+  "56": {
+    "devblog": 56,
+    "date": "2015-04-16",
+    "protocol": 1240,
+    "commit_sha": "552467d0",
+    "repo": "OxideMod/Oxide"
+  },
+  "57": {
+    "devblog": 57,
+    "date": "2015-04-23",
+    "protocol": 1244,
+    "commit_sha": "67a33118",
+    "repo": "OxideMod/Oxide"
   },
   "58": {
     "devblog": 58,
     "date": "2015-04-30",
-    "protocol": 1255,
-    "commit_sha": "4c45ae28",
-    "repo": "OxideMod/Oxide",
-    "title": "Печи, револьвер, стрелы",
-    "notes": "Классические чертежи (BP)"
+    "protocol": 1248,
+    "commit_sha": "bcc32821",
+    "repo": "OxideMod/Oxide"
+  },
+  "59": {
+    "devblog": 59,
+    "date": "2015-05-07",
+    "protocol": 1252,
+    "commit_sha": "86faff83",
+    "repo": "OxideMod/Oxide"
+  },
+  "60": {
+    "devblog": 60,
+    "date": "2015-05-14",
+    "protocol": 1261,
+    "commit_sha": "7266f71d",
+    "repo": "OxideMod/Oxide"
+  },
+  "61": {
+    "devblog": 61,
+    "date": "2015-05-21",
+    "protocol": 1265,
+    "commit_sha": "15d3122c",
+    "repo": "OxideMod/Oxide"
+  },
+  "62": {
+    "devblog": 62,
+    "date": "2015-05-28",
+    "protocol": 1268,
+    "commit_sha": "c5f5a1cf",
+    "repo": "OxideMod/Oxide"
   },
   "63": {
     "devblog": 63,
     "date": "2015-06-04",
-    "protocol": 1276,
-    "commit_sha": "7a5cf2b1",
-    "repo": "OxideMod/Oxide",
-    "title": "Водосборники, карьеры",
-    "notes": "Классические чертежи (BP)"
+    "protocol": 1271,
+    "commit_sha": "a6908afc",
+    "repo": "OxideMod/Oxide"
+  },
+  "64": {
+    "devblog": 64,
+    "date": "2015-06-11",
+    "protocol": 1275,
+    "commit_sha": "82f6c781",
+    "repo": "OxideMod/Oxide"
+  },
+  "65": {
+    "devblog": 65,
+    "date": "2015-06-18",
+    "protocol": 1282,
+    "commit_sha": "df49d74b",
+    "repo": "OxideMod/Oxide"
+  },
+  "66": {
+    "devblog": 66,
+    "date": "2015-06-25",
+    "protocol": 1286,
+    "commit_sha": "b902c1c6",
+    "repo": "OxideMod/Oxide"
+  },
+  "67": {
+    "devblog": 67,
+    "date": "2015-07-02",
+    "protocol": 1290,
+    "commit_sha": "92d4f6cc",
+    "repo": "OxideMod/Oxide"
+  },
+  "68": {
+    "devblog": 68,
+    "date": "2015-07-09",
+    "protocol": 1294,
+    "commit_sha": "c19b0ad9",
+    "repo": "OxideMod/Oxide"
+  },
+  "69": {
+    "devblog": 69,
+    "date": "2015-07-16",
+    "protocol": 1297,
+    "commit_sha": "f6a9ab03",
+    "repo": "OxideMod/Oxide"
+  },
+  "70": {
+    "devblog": 70,
+    "date": "2015-07-23",
+    "protocol": 1300,
+    "commit_sha": "74c393b9",
+    "repo": "OxideMod/Oxide"
+  },
+  "71": {
+    "devblog": 71,
+    "date": "2015-07-30",
+    "protocol": 1304,
+    "commit_sha": "562ac6d3",
+    "repo": "OxideMod/Oxide"
+  },
+  "72": {
+    "devblog": 72,
+    "date": "2015-08-06",
+    "protocol": 1307,
+    "commit_sha": "a5ccb991",
+    "repo": "OxideMod/Oxide"
   },
   "73": {
     "devblog": 73,
     "date": "2015-08-13",
-    "protocol": 1308,
-    "commit_sha": "d5473006",
-    "repo": "OxideMod/Oxide",
-    "title": "Патрульный вертолет, МВК, остров Savas",
-    "notes": "Эра чертежей (BP)"
+    "protocol": 1309,
+    "commit_sha": "b7dae684",
+    "repo": "OxideMod/Oxide"
+  },
+  "74": {
+    "devblog": 74,
+    "date": "2015-08-20",
+    "protocol": 1312,
+    "commit_sha": "71a277ae",
+    "repo": "OxideMod/Oxide"
+  },
+  "75": {
+    "devblog": 75,
+    "date": "2015-08-27",
+    "protocol": 1315,
+    "commit_sha": "adad333a",
+    "repo": "OxideMod/Oxide"
+  },
+  "76": {
+    "devblog": 76,
+    "date": "2015-09-03",
+    "protocol": 1318,
+    "commit_sha": "38b029de",
+    "repo": "OxideMod/Oxide"
+  },
+  "77": {
+    "devblog": 77,
+    "date": "2015-09-10",
+    "protocol": 1320,
+    "commit_sha": "904e24c8",
+    "repo": "OxideMod/Oxide"
+  },
+  "78": {
+    "devblog": 78,
+    "date": "2015-09-17",
+    "protocol": 1321,
+    "commit_sha": "e2673dd7",
+    "repo": "OxideMod/Oxide"
+  },
+  "79": {
+    "devblog": 79,
+    "date": "2015-09-24",
+    "protocol": 1322,
+    "commit_sha": "64bf302c",
+    "repo": "OxideMod/Oxide"
   },
   "80": {
     "devblog": 80,
     "date": "2015-10-01",
+    "protocol": 1323,
+    "commit_sha": "aca66ecd",
+    "repo": "OxideMod/Oxide"
+  },
+  "81": {
+    "devblog": 81,
+    "date": "2015-10-08",
     "protocol": 1326,
-    "commit_sha": "a2e89d14",
-    "repo": "OxideMod/Oxide",
-    "title": "Баланс АК-47, костяная броня",
-    "notes": "Эра чертежей (BP)"
+    "commit_sha": "a4320269",
+    "repo": "OxideMod/Oxide"
+  },
+  "82": {
+    "devblog": 82,
+    "date": "2015-10-15",
+    "protocol": 1327,
+    "commit_sha": "5aa10774",
+    "repo": "OxideMod/Oxide"
+  },
+  "83": {
+    "devblog": 83,
+    "date": "2015-10-22",
+    "protocol": 1329,
+    "commit_sha": "ddfd833a",
+    "repo": "OxideMod/Oxide"
+  },
+  "84": {
+    "devblog": 84,
+    "date": "2015-10-29",
+    "protocol": 1332,
+    "commit_sha": "322ac5ae",
+    "repo": "OxideMod/Oxide"
+  },
+  "85": {
+    "devblog": 85,
+    "date": "2015-11-05",
+    "protocol": 1334,
+    "commit_sha": "f8fe09e1",
+    "repo": "OxideMod/Oxide"
+  },
+  "86": {
+    "devblog": 86,
+    "date": "2015-11-12",
+    "protocol": 1335,
+    "commit_sha": "8782a15c",
+    "repo": "OxideMod/Oxide"
+  },
+  "87": {
+    "devblog": 87,
+    "date": "2015-11-19",
+    "protocol": 1336,
+    "commit_sha": "5221975e",
+    "repo": "OxideMod/Oxide"
+  },
+  "88": {
+    "devblog": 88,
+    "date": "2015-11-26",
+    "protocol": 1337,
+    "commit_sha": "d5a8bc3b",
+    "repo": "OxideMod/Oxide"
+  },
+  "89": {
+    "devblog": 89,
+    "date": "2015-12-03",
+    "protocol": 1338,
+    "commit_sha": "517454f7",
+    "repo": "OxideMod/Oxide"
   },
   "90": {
     "devblog": 90,
     "date": "2015-12-10",
+    "protocol": 1339,
+    "commit_sha": "2673c037",
+    "repo": "OxideMod/Oxide"
+  },
+  "91": {
+    "devblog": 91,
+    "date": "2015-12-17",
+    "protocol": 1341,
+    "commit_sha": "2a9a4b2a",
+    "repo": "OxideMod/Oxide"
+  },
+  "92": {
+    "devblog": 92,
+    "date": "2016-01-07",
+    "protocol": 1344,
+    "commit_sha": "3962635d",
+    "repo": "OxideMod/Oxide"
+  },
+  "93": {
+    "devblog": 93,
+    "date": "2016-01-14",
+    "protocol": 1346,
+    "commit_sha": "648a1d7c",
+    "repo": "OxideMod/Oxide"
+  },
+  "94": {
+    "devblog": 94,
+    "date": "2016-01-21",
     "protocol": 1347,
-    "commit_sha": "16a9a7d3",
-    "repo": "OxideMod/Oxide",
-    "title": "Переработка воды, данжи",
-    "notes": "Конец 2015 года"
+    "commit_sha": "9b1263c7",
+    "repo": "OxideMod/Oxide"
+  },
+  "95": {
+    "devblog": 95,
+    "date": "2016-01-28",
+    "protocol": 1349,
+    "commit_sha": "806ec663",
+    "repo": "OxideMod/Oxide"
+  },
+  "96": {
+    "devblog": 96,
+    "date": "2016-02-04",
+    "protocol": 1350,
+    "commit_sha": "3fc3c033",
+    "repo": "OxideMod/Oxide"
+  },
+  "97": {
+    "devblog": 97,
+    "date": "2016-02-11",
+    "protocol": 1352,
+    "commit_sha": "87c469f3",
+    "repo": "OxideMod/Oxide"
+  },
+  "98": {
+    "devblog": 98,
+    "date": "2016-02-18",
+    "protocol": 1354,
+    "commit_sha": "0dae13b8",
+    "repo": "OxideMod/Oxide"
+  },
+  "99": {
+    "devblog": 99,
+    "date": "2016-02-25",
+    "protocol": 1355,
+    "commit_sha": "44bbd18f",
+    "repo": "OxideMod/Oxide"
   },
   "100": {
     "devblog": 100,
-    "date": "2016-03-03",
+    "date": "2016-07-07",
+    "protocol": 1470,
+    "commit_sha": "6bb31457",
+    "repo": "OxideMod/Oxide"
+  },
+  "101": {
+    "devblog": 101,
+    "date": "2016-03-10",
     "protocol": 1358,
-    "commit_sha": "9fef3650",
-    "repo": "OxideMod/Oxide",
-    "title": "Юбилейный девблог 100, огнемет, капканы",
-    "notes": "Весна 2016"
+    "commit_sha": "8a3e7dfa",
+    "repo": "OxideMod/Oxide"
+  },
+  "102": {
+    "devblog": 102,
+    "date": "2016-03-17",
+    "protocol": 1360,
+    "commit_sha": "3e9b7a42",
+    "repo": "OxideMod/Oxide"
+  },
+  "103": {
+    "devblog": 103,
+    "date": "2016-03-24",
+    "protocol": 1362,
+    "commit_sha": "55b412ce",
+    "repo": "OxideMod/Oxide"
+  },
+  "104": {
+    "devblog": 104,
+    "date": "2016-03-31",
+    "protocol": 1364,
+    "commit_sha": "55050f28",
+    "repo": "OxideMod/Oxide"
   },
   "105": {
     "devblog": 105,
     "date": "2016-04-07",
-    "protocol": 1365,
-    "commit_sha": "b14fa588",
-    "repo": "OxideMod/Oxide",
-    "title": "Процедурные данжи, оптимизация",
-    "notes": "Весна 2016"
+    "protocol": 1366,
+    "commit_sha": "ba89196b",
+    "repo": "OxideMod/Oxide"
+  },
+  "106": {
+    "devblog": 106,
+    "date": "2016-04-14",
+    "protocol": 1367,
+    "commit_sha": "65b93cf7",
+    "repo": "OxideMod/Oxide"
+  },
+  "107": {
+    "devblog": 107,
+    "date": "2016-04-21",
+    "protocol": 1368,
+    "commit_sha": "a3fc5d92",
+    "repo": "OxideMod/Oxide"
+  },
+  "108": {
+    "devblog": 108,
+    "date": "2016-04-28",
+    "protocol": 1370,
+    "commit_sha": "5e171ba8",
+    "repo": "OxideMod/Oxide"
+  },
+  "109": {
+    "devblog": 109,
+    "date": "2016-05-05",
+    "protocol": 1371,
+    "commit_sha": "87c9ec94",
+    "repo": "OxideMod/Oxide"
   },
   "110": {
     "devblog": 110,
     "date": "2016-05-12",
     "protocol": 1373,
-    "commit_sha": "30a6de32",
-    "repo": "OxideMod/Oxide",
-    "title": "Полуавтоматическая винтовка (SAR), слоты брони",
-    "notes": "Весна 2016"
+    "commit_sha": "713919e1",
+    "repo": "OxideMod/Oxide"
+  },
+  "111": {
+    "devblog": 111,
+    "date": "2016-05-19",
+    "protocol": 1375,
+    "commit_sha": "47a988d5",
+    "repo": "OxideMod/Oxide"
+  },
+  "112": {
+    "devblog": 112,
+    "date": "2016-05-26",
+    "protocol": 1377,
+    "commit_sha": "b53f6560",
+    "repo": "OxideMod/Oxide"
+  },
+  "113": {
+    "devblog": 113,
+    "date": "2016-06-02",
+    "protocol": 1378,
+    "commit_sha": "34f19b88",
+    "repo": "OxideMod/Oxide"
+  },
+  "114": {
+    "devblog": 114,
+    "date": "2016-06-09",
+    "protocol": 1379,
+    "commit_sha": "08f4c17b",
+    "repo": "OxideMod/Oxide"
   },
   "115": {
     "devblog": 115,
     "date": "2016-06-16",
-    "protocol": 1378,
-    "commit_sha": "d76c11a9",
-    "repo": "OxideMod/Oxide",
-    "title": "Подствольные фонари, обновление данжей",
-    "notes": "Конец эры чертежей"
+    "protocol": 1380,
+    "commit_sha": "b0f7a77e",
+    "repo": "OxideMod/Oxide"
   },
   "116": {
     "devblog": 116,
     "date": "2016-06-23",
-    "protocol": 1380,
-    "commit_sha": "8a05b07a",
-    "repo": "OxideMod/Oxide",
-    "title": "Последний патч с классическими чертежами (BP)",
-    "notes": "Финал системы чертежей 2016"
+    "protocol": 1381,
+    "commit_sha": "304819fc",
+    "repo": "OxideMod/Oxide"
   },
   "117": {
     "devblog": 117,
-    "date": "2016-07-07",
-    "protocol": 1385,
-    "commit_sha": "ef37c980",
-    "repo": "OxideMod/Oxide",
-    "title": "Релиз XP-системы (прокачка уровней)",
-    "notes": "XP System"
+    "date": "2016-06-30",
+    "protocol": 1383,
+    "commit_sha": "04ef4c2d",
+    "repo": "OxideMod/Oxide"
+  },
+  "118": {
+    "devblog": 118,
+    "date": "2016-07-14",
+    "protocol": 1473,
+    "commit_sha": "aa582a89",
+    "repo": "OxideMod/Oxide"
+  },
+  "119": {
+    "devblog": 119,
+    "date": "2016-07-21",
+    "protocol": 1476,
+    "commit_sha": "09ce7811",
+    "repo": "OxideMod/Oxide"
   },
   "120": {
     "devblog": 120,
     "date": "2016-07-28",
-    "protocol": 1391,
-    "commit_sha": "c33b7ad2",
-    "repo": "OxideMod/Oxide",
-    "title": "Арбалет, баланс брони, античит",
-    "notes": "XP System"
+    "protocol": 1479,
+    "commit_sha": "4f49a037",
+    "repo": "OxideMod/Oxide"
+  },
+  "121": {
+    "devblog": 121,
+    "date": "2016-08-04",
+    "protocol": 1487,
+    "commit_sha": "631274da",
+    "repo": "OxideMod/Oxide"
+  },
+  "122": {
+    "devblog": 122,
+    "date": "2016-08-11",
+    "protocol": 1488,
+    "commit_sha": "36d36c97",
+    "repo": "OxideMod/Oxide"
+  },
+  "123": {
+    "devblog": 123,
+    "date": "2016-08-19",
+    "protocol": 1490,
+    "commit_sha": "aafae8eb",
+    "repo": "OxideMod/Oxide"
+  },
+  "124": {
+    "devblog": 124,
+    "date": "2016-08-25",
+    "protocol": 1491,
+    "commit_sha": "1033f782",
+    "repo": "OxideMod/Oxide"
   },
   "125": {
     "devblog": 125,
     "date": "2016-09-01",
-    "protocol": 1400,
-    "commit_sha": "8839d3c5",
-    "repo": "OxideMod/Oxide",
-    "title": "Ремоделинг костяной брони, оптимизация",
-    "notes": "XP System"
+    "protocol": 1695,
+    "commit_sha": "0d642e9f",
+    "repo": "OxideMod/Oxide"
+  },
+  "126": {
+    "devblog": 126,
+    "date": "2016-09-08",
+    "protocol": 1696,
+    "commit_sha": "989d19b3",
+    "repo": "OxideMod/Oxide"
+  },
+  "127": {
+    "devblog": 127,
+    "date": "2016-09-15",
+    "protocol": 1697,
+    "commit_sha": "20ca1f87",
+    "repo": "OxideMod/Oxide"
+  },
+  "128": {
+    "devblog": 128,
+    "date": "2016-09-22",
+    "protocol": 1698,
+    "commit_sha": "1478bd75",
+    "repo": "OxideMod/Oxide"
+  },
+  "129": {
+    "devblog": 129,
+    "date": "2016-09-29",
+    "protocol": 1700,
+    "commit_sha": "5b7e7cdb",
+    "repo": "OxideMod/Oxide"
   },
   "130": {
     "devblog": 130,
     "date": "2016-10-06",
-    "protocol": 1485,
-    "commit_sha": "a7501bd2",
-    "repo": "OxideMod/Oxide",
-    "title": "Винтовка LR-300, новая отдача",
-    "notes": "Осень 2016"
+    "protocol": 1801,
+    "commit_sha": "be9c3719",
+    "repo": "OxideMod/Oxide"
+  },
+  "131": {
+    "devblog": 131,
+    "date": "2016-10-13",
+    "protocol": 1803,
+    "commit_sha": "9b515397",
+    "repo": "OxideMod/Oxide"
+  },
+  "132": {
+    "devblog": 132,
+    "date": "2016-10-20",
+    "protocol": 1805,
+    "commit_sha": "8cebeb47",
+    "repo": "OxideMod/Oxide"
   },
   "133": {
     "devblog": 133,
-    "date": "2016-10-20",
-    "protocol": 1493,
-    "commit_sha": "8cebeb47",
-    "repo": "OxideMod/Oxide",
-    "title": "Военные туннели, Хазмат, Радиация",
-    "notes": "Популярный девблог"
+    "date": "2016-10-27",
+    "protocol": 1806,
+    "commit_sha": "82a411ec",
+    "repo": "OxideMod/Oxide"
+  },
+  "134": {
+    "devblog": 134,
+    "date": "2016-11-03",
+    "protocol": 1920,
+    "commit_sha": "11b0dd57",
+    "repo": "OxideMod/Oxide"
   },
   "135": {
     "devblog": 135,
-    "date": "2016-11-03",
-    "protocol": 1498,
-    "commit_sha": "df9a3411",
-    "repo": "OxideMod/Oxide",
-    "title": "Релиз системы компонентов (Component System)",
-    "notes": "Component System"
+    "date": "2016-11-10",
+    "protocol": 1923,
+    "commit_sha": "a0060991",
+    "repo": "OxideMod/Oxide"
+  },
+  "136": {
+    "devblog": 136,
+    "date": "2016-11-17",
+    "protocol": 1925,
+    "commit_sha": "4c7accd2",
+    "repo": "OxideMod/Oxide"
+  },
+  "137": {
+    "devblog": 137,
+    "date": "2016-11-24",
+    "protocol": 1926,
+    "commit_sha": "7139572d",
+    "repo": "OxideMod/Oxide"
   },
   "138": {
     "devblog": 138,
     "date": "2016-12-01",
-    "protocol": 1505,
-    "commit_sha": "ad9d90fb",
-    "repo": "OxideMod/Oxide",
-    "title": "Переработка пещер, глушение звуков",
-    "notes": "Конец 2016 года"
+    "protocol": 1928,
+    "commit_sha": "1564d71f",
+    "repo": "OxideMod/Oxide"
+  },
+  "139": {
+    "devblog": 139,
+    "date": "2016-12-08",
+    "protocol": 1931,
+    "commit_sha": "07a6f4e6",
+    "repo": "OxideMod/Oxide"
   },
   "140": {
     "devblog": 140,
-    "date": "2016-12-15",
-    "protocol": 1512,
-    "commit_sha": "fe823c10",
-    "repo": "OxideMod/Oxide",
-    "title": "Новогодний ивент, подарки",
-    "notes": "Зима 2016"
+    "date": "2016-12-16",
+    "protocol": 1935,
+    "commit_sha": "d34a4aff",
+    "repo": "OxideMod/Oxide"
+  },
+  "141": {
+    "devblog": 141,
+    "date": "2016-12-22",
+    "protocol": 1936,
+    "commit_sha": "90f71d44",
+    "repo": "OxideMod/Oxide"
+  },
+  "142": {
+    "devblog": 142,
+    "date": "2017-01-05",
+    "protocol": 1949,
+    "commit_sha": "7c4ffa7d",
+    "repo": "OxideMod/Oxide"
+  },
+  "143": {
+    "devblog": 143,
+    "date": "2017-01-12",
+    "protocol": 1951,
+    "commit_sha": "080f508a",
+    "repo": "OxideMod/Oxide"
+  },
+  "144": {
+    "devblog": 144,
+    "date": "2017-01-19",
+    "protocol": 1951,
+    "commit_sha": "d07b7c3f",
+    "repo": "OxideMod/Oxide"
   },
   "145": {
     "devblog": 145,
     "date": "2017-01-26",
+    "protocol": 1956,
+    "commit_sha": "fa0ea3da",
+    "repo": "OxideMod/Oxide"
+  },
+  "146": {
+    "devblog": 146,
+    "date": "2017-02-02",
+    "protocol": 1958,
+    "commit_sha": "a1167f26",
+    "repo": "OxideMod/Oxide"
+  },
+  "147": {
+    "devblog": 147,
+    "date": "2017-02-09",
     "protocol": 1960,
-    "commit_sha": "70ea91b2",
-    "repo": "OxideMod/Oxide",
-    "title": "Тяжелая железная броня, стрельба",
-    "notes": "Начало 2017 года"
+    "commit_sha": "6fac35f2",
+    "repo": "OxideMod/Oxide"
+  },
+  "148": {
+    "devblog": 148,
+    "date": "2017-02-16",
+    "protocol": 1960,
+    "commit_sha": "d97171fc",
+    "repo": "OxideMod/Oxide"
+  },
+  "149": {
+    "devblog": 149,
+    "date": "2017-02-23",
+    "protocol": 1965,
+    "commit_sha": "8fabc1b7",
+    "repo": "OxideMod/Oxide"
   },
   "150": {
     "devblog": 150,
+    "date": "2017-03-02",
+    "protocol": 1967,
+    "commit_sha": "cc5e94b4",
+    "repo": "OxideMod/Oxide"
+  },
+  "151": {
+    "devblog": 151,
     "date": "2017-03-09",
-    "protocol": 1974,
-    "commit_sha": "3b956bf8",
-    "repo": "OxideMod/Oxide",
-    "title": "Тяжелая броня, револьвер Python",
-    "notes": "Весна 2017"
+    "protocol": 1971,
+    "commit_sha": "99e6e0b5",
+    "repo": "OxideMod/Oxide"
+  },
+  "152": {
+    "devblog": 152,
+    "date": "2017-03-16",
+    "protocol": 1975,
+    "commit_sha": "775fe9fa",
+    "repo": "OxideMod/Oxide"
+  },
+  "153": {
+    "devblog": 153,
+    "date": "2017-03-23",
+    "protocol": 1976,
+    "commit_sha": "d2c8b700",
+    "repo": "OxideMod/Oxide"
+  },
+  "154": {
+    "devblog": 154,
+    "date": "2017-03-30",
+    "protocol": 1977,
+    "commit_sha": "bad3ccfa",
+    "repo": "OxideMod/Oxide"
   },
   "155": {
     "devblog": 155,
     "date": "2017-04-13",
+    "protocol": 1979,
+    "commit_sha": "420a8969",
+    "repo": "OxideMod/Oxide"
+  },
+  "156": {
+    "devblog": 156,
+    "date": "2017-04-20",
     "protocol": 1980,
-    "commit_sha": "266a15de",
-    "repo": "OxideMod/Oxide",
-    "title": "Прожектор, почтовый ящик, спиннер",
-    "notes": "Весна 2017"
+    "commit_sha": "ffeb947f",
+    "repo": "OxideMod/Oxide"
+  },
+  "157": {
+    "devblog": 157,
+    "date": "2017-04-27",
+    "protocol": 1982,
+    "commit_sha": "3dbaf55a",
+    "repo": "OxideMod/Oxide"
+  },
+  "158": {
+    "devblog": 158,
+    "date": "2017-05-04",
+    "protocol": 1984,
+    "commit_sha": "a2dd4d3c",
+    "repo": "OxideMod/Oxide"
+  },
+  "159": {
+    "devblog": 159,
+    "date": "2017-05-11",
+    "protocol": 1985,
+    "commit_sha": "90d27bf0",
+    "repo": "OxideMod/Oxide"
   },
   "160": {
     "devblog": 160,
     "date": "2017-05-18",
     "protocol": 1987,
-    "commit_sha": "e028fdb7",
-    "repo": "OxideMod/Oxide",
-    "title": "Баланс тяжелой брони, навигация NPC",
-    "notes": "Весна 2017"
+    "commit_sha": "5f117758",
+    "repo": "OxideMod/Oxide"
+  },
+  "161": {
+    "devblog": 161,
+    "date": "2017-05-25",
+    "protocol": 1988,
+    "commit_sha": "0a36093e",
+    "repo": "OxideMod/Oxide"
   },
   "162": {
     "devblog": 162,
     "date": "2017-06-01",
     "protocol": 1989,
     "commit_sha": "c95bfbaa",
-    "repo": "OxideMod/Oxide",
-    "title": "Космодром (Launch Site), танк Bradley APC",
-    "notes": "Лето 2017"
+    "repo": "OxideMod/Oxide"
+  },
+  "163": {
+    "devblog": 163,
+    "date": "2017-06-07",
+    "protocol": 1991,
+    "commit_sha": "d27c6b32",
+    "repo": "OxideMod/Oxide"
+  },
+  "164": {
+    "devblog": 164,
+    "date": "2017-06-14",
+    "protocol": 1992,
+    "commit_sha": "54abfd0c",
+    "repo": "OxideMod/Oxide"
   },
   "165": {
     "devblog": 165,
-    "date": "2017-06-22",
+    "date": "2017-06-21",
     "protocol": 1993,
-    "commit_sha": "2c5109b8",
-    "repo": "OxideMod/Oxide",
-    "title": "Зажигательные и разрывные патроны",
-    "notes": "Лето 2017"
+    "commit_sha": "ef7a5fed",
+    "repo": "OxideMod/Oxide"
+  },
+  "166": {
+    "devblog": 166,
+    "date": "2017-06-29",
+    "protocol": 1995,
+    "commit_sha": "1cd04f8f",
+    "repo": "OxideMod/Oxide"
+  },
+  "167": {
+    "devblog": 167,
+    "date": "2017-07-06",
+    "protocol": 1997,
+    "commit_sha": "920c5a40",
+    "repo": "OxideMod/Oxide"
+  },
+  "168": {
+    "devblog": 168,
+    "date": "2017-07-13",
+    "protocol": 1998,
+    "commit_sha": "df028ddf",
+    "repo": "OxideMod/Oxide"
+  },
+  "169": {
+    "devblog": 169,
+    "date": "2017-07-20",
+    "protocol": 2000,
+    "commit_sha": "10c107de",
+    "repo": "OxideMod/Oxide"
   },
   "170": {
     "devblog": 170,
     "date": "2017-07-27",
-    "protocol": 2005,
-    "commit_sha": "b2efec9a",
-    "repo": "OxideMod/Oxide",
-    "title": "Баланс ракет, ИИ танка Bradley",
-    "notes": "Лето 2017"
+    "protocol": 2001,
+    "commit_sha": "fd1119fe",
+    "repo": "OxideMod/Oxide"
+  },
+  "171": {
+    "devblog": 171,
+    "date": "2017-08-03",
+    "protocol": 2003,
+    "commit_sha": "0a558ec3",
+    "repo": "OxideMod/Oxide"
+  },
+  "172": {
+    "devblog": 172,
+    "date": "2017-08-10",
+    "protocol": 2007,
+    "commit_sha": "cd5b8bfd",
+    "repo": "OxideMod/Oxide"
+  },
+  "173": {
+    "devblog": 173,
+    "date": "2017-08-17",
+    "protocol": 2009,
+    "commit_sha": "5436a1eb",
+    "repo": "OxideMod/Oxide"
+  },
+  "174": {
+    "devblog": 174,
+    "date": "2017-08-24",
+    "protocol": 2010,
+    "commit_sha": "7d2c4047",
+    "repo": "OxideMod/Oxide"
   },
   "175": {
     "devblog": 175,
     "date": "2017-08-31",
+    "protocol": 2011,
+    "commit_sha": "1a0283c8",
+    "repo": "OxideMod/Oxide"
+  },
+  "176": {
+    "devblog": 176,
+    "date": "2017-09-07",
+    "protocol": 2012,
+    "commit_sha": "ed5e6f70",
+    "repo": "OxideMod/Oxide"
+  },
+  "177": {
+    "devblog": 177,
+    "date": "2017-09-14",
+    "protocol": 2013,
+    "commit_sha": "99ab6c0e",
+    "repo": "OxideMod/Oxide"
+  },
+  "178": {
+    "devblog": 178,
+    "date": "2017-09-21",
     "protocol": 2016,
-    "commit_sha": "5543c988",
-    "repo": "OxideMod/Oxide",
-    "title": "Уничтожение танка Bradley, ящики с лутом",
-    "notes": "Лето 2017"
+    "commit_sha": "6fbabcac",
+    "repo": "OxideMod/Oxide"
+  },
+  "179": {
+    "devblog": 179,
+    "date": "2017-09-28",
+    "protocol": 2017,
+    "commit_sha": "6a880141",
+    "repo": "OxideMod/Oxide"
   },
   "180": {
     "devblog": 180,
     "date": "2017-10-05",
+    "protocol": 2022,
+    "commit_sha": "4d545258",
+    "repo": "OxideMod/Oxide"
+  },
+  "181": {
+    "devblog": 181,
+    "date": "2017-10-12",
+    "protocol": 2023,
+    "commit_sha": "bfaf8a2f",
+    "repo": "OxideMod/Oxide"
+  },
+  "182": {
+    "devblog": 182,
+    "date": "2017-10-19",
     "protocol": 2024,
-    "commit_sha": "3a6066eb",
-    "repo": "OxideMod/Oxide",
-    "title": "Верстаки 1-3, возвращение чертежей (BP)",
-    "notes": "Эра верстаков и скрапа"
+    "commit_sha": "19f5baee",
+    "repo": "OxideMod/Oxide"
   },
   "183": {
     "devblog": 183,
     "date": "2017-10-26",
     "protocol": 2027,
-    "commit_sha": "443c25e0",
-    "repo": "OxideMod/Oxide",
-    "title": "Хэллоуин 2017, нож мясника, пугало",
-    "notes": "Осень 2017"
+    "commit_sha": "384a69cf",
+    "repo": "OxideMod/Oxide"
   },
   "184": {
     "devblog": 184,
     "date": "2017-11-02",
     "protocol": 2031,
     "commit_sha": "5fcc1f69",
-    "repo": "OxideMod/Oxide",
-    "title": "Стулья, столы, туман войны на карте",
-    "notes": "Осень 2017"
+    "repo": "OxideMod/Oxide"
   },
   "185": {
     "devblog": 185,
     "date": "2017-11-09",
     "protocol": 2033,
     "commit_sha": "d0b503ef",
-    "repo": "OxideMod/Oxide",
-    "title": "Гвоздомёт (Nailgun), финальный коммит Oxide",
-    "notes": "Окончание единого репозитория"
+    "repo": "OxideMod/Oxide"
   },
   "186": {
     "devblog": 186,
     "date": "2017-11-16",
-    "protocol": 2035,
-    "commit_sha": "07e448b1",
-    "repo": "OxideMod/Oxide.Rust",
-    "title": "Переход на отдельный репозиторий Oxide.Rust",
-    "notes": "Новый репозиторий Oxide.Rust"
+    "protocol": 2036,
+    "commit_sha": "b8faa5ab",
+    "repo": "OxideMod/Oxide.Rust"
+  },
+  "187": {
+    "devblog": 187,
+    "date": "2017-11-23",
+    "protocol": 2037,
+    "commit_sha": "5d778b2d",
+    "repo": "OxideMod/Oxide.Rust"
+  },
+  "188": {
+    "devblog": 188,
+    "date": "2017-11-30",
+    "protocol": 2037,
+    "commit_sha": "b2d515c5",
+    "repo": "OxideMod/Oxide.Rust"
+  },
+  "189": {
+    "devblog": 189,
+    "date": "2017-12-07",
+    "protocol": 2043,
+    "commit_sha": "cac46270",
+    "repo": "OxideMod/Oxide.Rust"
   },
   "190": {
     "devblog": 190,
     "date": "2017-12-14",
     "protocol": 2043,
-    "commit_sha": "6aea5a87",
-    "repo": "OxideMod/Oxide.Rust",
-    "title": "Building 3.0 (Новая система стройки, полустены)",
-    "notes": "Зима 2017"
+    "commit_sha": "50e431e7",
+    "repo": "OxideMod/Oxide.Rust"
   },
-  "195": {
-    "devblog": 195,
+  "191": {
+    "devblog": 191,
+    "date": "2017-12-21",
+    "protocol": 2048,
+    "commit_sha": "db4a3a5b",
+    "repo": "OxideMod/Oxide.Rust"
+  },
+  "192": {
+    "devblog": 192,
+    "date": "2018-01-04",
+    "protocol": 2049,
+    "commit_sha": "b8a3f738",
+    "repo": "OxideMod/Oxide.Rust"
+  },
+  "193": {
+    "devblog": 193,
+    "date": "2018-01-11",
+    "protocol": 2050,
+    "commit_sha": "bb661073",
+    "repo": "OxideMod/Oxide.Rust"
+  },
+  "194": {
+    "devblog": 194,
     "date": "2018-01-18",
     "protocol": 2051,
     "commit_sha": "f18ab9ff",
-    "repo": "OxideMod/Oxide.Rust",
-    "title": "Бензопила, ученые NPC на дорогах",
-    "notes": "Начало 2018 года"
+    "repo": "OxideMod/Oxide.Rust"
   },
-  "198": {
-    "devblog": 198,
+  "195": {
+    "devblog": 195,
+    "date": "2018-01-25",
+    "protocol": 2052,
+    "commit_sha": "f39bce1e",
+    "repo": "OxideMod/Oxide.Rust"
+  },
+  "196": {
+    "devblog": 196,
     "date": "2018-02-01",
     "protocol": 2054,
-    "commit_sha": "87ff6d5e",
-    "repo": "OxideMod/Oxide.Rust",
-    "title": "Предрелизный патч перед выходом из Early Access",
-    "notes": "Финальный бета-патч"
+    "commit_sha": "ecb2a6bb",
+    "repo": "OxideMod/Oxide.Rust"
   },
-  "199": {
-    "devblog": 199,
+  "197": {
+    "devblog": 197,
     "date": "2018-02-08",
     "protocol": 2057,
     "commit_sha": "c4f1a92b",
-    "repo": "OxideMod/Oxide.Rust",
-    "title": "Выход Rust из раннего доступа (Out of Early Access)",
-    "notes": "Релиз 1.0"
+    "repo": "OxideMod/Oxide.Rust"
   },
-  "200": {
-    "devblog": 200,
-    "date": "2018-02-15",
-    "protocol": 2060,
-    "commit_sha": "08a5a226",
-    "repo": "OxideMod/Oxide.Rust",
-    "title": "Первый пострелизный девблог 200",
-    "notes": "Февраль 2018"
+  "198": {
+    "devblog": 198,
+    "date": "2018-03-01",
+    "protocol": 2062,
+    "commit_sha": "9b5ec188",
+    "repo": "OxideMod/Oxide.Rust"
   }
 }
