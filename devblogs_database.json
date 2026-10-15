@@ -1,1 +1,335 @@
-
+{
+  "53": {
+    "devblog": 53,
+    "date": "2015-03-26",
+    "protocol": 1238,
+    "commit_sha": "8d9bf16c",
+    "repo": "OxideMod/Oxide",
+    "title": "Кодовые замки, баррикады",
+    "notes": "Ранний Rust Reboot"
+  },
+  "58": {
+    "devblog": 58,
+    "date": "2015-04-30",
+    "protocol": 1255,
+    "commit_sha": "4c45ae28",
+    "repo": "OxideMod/Oxide",
+    "title": "Печи, револьвер, стрелы",
+    "notes": "Классические чертежи (BP)"
+  },
+  "63": {
+    "devblog": 63,
+    "date": "2015-06-04",
+    "protocol": 1276,
+    "commit_sha": "7a5cf2b1",
+    "repo": "OxideMod/Oxide",
+    "title": "Водосборники, карьеры",
+    "notes": "Классические чертежи (BP)"
+  },
+  "73": {
+    "devblog": 73,
+    "date": "2015-08-13",
+    "protocol": 1308,
+    "commit_sha": "d5473006",
+    "repo": "OxideMod/Oxide",
+    "title": "Патрульный вертолет, МВК, остров Savas",
+    "notes": "Эра чертежей (BP)"
+  },
+  "80": {
+    "devblog": 80,
+    "date": "2015-10-01",
+    "protocol": 1326,
+    "commit_sha": "a2e89d14",
+    "repo": "OxideMod/Oxide",
+    "title": "Баланс АК-47, костяная броня",
+    "notes": "Эра чертежей (BP)"
+  },
+  "90": {
+    "devblog": 90,
+    "date": "2015-12-10",
+    "protocol": 1347,
+    "commit_sha": "16a9a7d3",
+    "repo": "OxideMod/Oxide",
+    "title": "Переработка воды, данжи",
+    "notes": "Конец 2015 года"
+  },
+  "100": {
+    "devblog": 100,
+    "date": "2016-03-03",
+    "protocol": 1358,
+    "commit_sha": "9fef3650",
+    "repo": "OxideMod/Oxide",
+    "title": "Юбилейный девблог 100, огнемет, капканы",
+    "notes": "Весна 2016"
+  },
+  "105": {
+    "devblog": 105,
+    "date": "2016-04-07",
+    "protocol": 1365,
+    "commit_sha": "b14fa588",
+    "repo": "OxideMod/Oxide",
+    "title": "Процедурные данжи, оптимизация",
+    "notes": "Весна 2016"
+  },
+  "110": {
+    "devblog": 110,
+    "date": "2016-05-12",
+    "protocol": 1373,
+    "commit_sha": "30a6de32",
+    "repo": "OxideMod/Oxide",
+    "title": "Полуавтоматическая винтовка (SAR), слоты брони",
+    "notes": "Весна 2016"
+  },
+  "115": {
+    "devblog": 115,
+    "date": "2016-06-16",
+    "protocol": 1378,
+    "commit_sha": "d76c11a9",
+    "repo": "OxideMod/Oxide",
+    "title": "Подствольные фонари, обновление данжей",
+    "notes": "Конец эры чертежей"
+  },
+  "116": {
+    "devblog": 116,
+    "date": "2016-06-23",
+    "protocol": 1380,
+    "commit_sha": "8a05b07a",
+    "repo": "OxideMod/Oxide",
+    "title": "Последний патч с классическими чертежами (BP)",
+    "notes": "Финал системы чертежей 2016"
+  },
+  "117": {
+    "devblog": 117,
+    "date": "2016-07-07",
+    "protocol": 1385,
+    "commit_sha": "ef37c980",
+    "repo": "OxideMod/Oxide",
+    "title": "Релиз XP-системы (прокачка уровней)",
+    "notes": "XP System"
+  },
+  "120": {
+    "devblog": 120,
+    "date": "2016-07-28",
+    "protocol": 1391,
+    "commit_sha": "c33b7ad2",
+    "repo": "OxideMod/Oxide",
+    "title": "Арбалет, баланс брони, античит",
+    "notes": "XP System"
+  },
+  "125": {
+    "devblog": 125,
+    "date": "2016-09-01",
+    "protocol": 1400,
+    "commit_sha": "8839d3c5",
+    "repo": "OxideMod/Oxide",
+    "title": "Ремоделинг костяной брони, оптимизация",
+    "notes": "XP System"
+  },
+  "130": {
+    "devblog": 130,
+    "date": "2016-10-06",
+    "protocol": 1485,
+    "commit_sha": "a7501bd2",
+    "repo": "OxideMod/Oxide",
+    "title": "Винтовка LR-300, новая отдача",
+    "notes": "Осень 2016"
+  },
+  "133": {
+    "devblog": 133,
+    "date": "2016-10-20",
+    "protocol": 1493,
+    "commit_sha": "8cebeb47",
+    "repo": "OxideMod/Oxide",
+    "title": "Военные туннели, Хазмат, Радиация",
+    "notes": "Популярный девблог"
+  },
+  "135": {
+    "devblog": 135,
+    "date": "2016-11-03",
+    "protocol": 1498,
+    "commit_sha": "df9a3411",
+    "repo": "OxideMod/Oxide",
+    "title": "Релиз системы компонентов (Component System)",
+    "notes": "Component System"
+  },
+  "138": {
+    "devblog": 138,
+    "date": "2016-12-01",
+    "protocol": 1505,
+    "commit_sha": "ad9d90fb",
+    "repo": "OxideMod/Oxide",
+    "title": "Переработка пещер, глушение звуков",
+    "notes": "Конец 2016 года"
+  },
+  "140": {
+    "devblog": 140,
+    "date": "2016-12-15",
+    "protocol": 1512,
+    "commit_sha": "fe823c10",
+    "repo": "OxideMod/Oxide",
+    "title": "Новогодний ивент, подарки",
+    "notes": "Зима 2016"
+  },
+  "145": {
+    "devblog": 145,
+    "date": "2017-01-26",
+    "protocol": 1960,
+    "commit_sha": "70ea91b2",
+    "repo": "OxideMod/Oxide",
+    "title": "Тяжелая железная броня, стрельба",
+    "notes": "Начало 2017 года"
+  },
+  "150": {
+    "devblog": 150,
+    "date": "2017-03-09",
+    "protocol": 1974,
+    "commit_sha": "3b956bf8",
+    "repo": "OxideMod/Oxide",
+    "title": "Тяжелая броня, револьвер Python",
+    "notes": "Весна 2017"
+  },
+  "155": {
+    "devblog": 155,
+    "date": "2017-04-13",
+    "protocol": 1980,
+    "commit_sha": "266a15de",
+    "repo": "OxideMod/Oxide",
+    "title": "Прожектор, почтовый ящик, спиннер",
+    "notes": "Весна 2017"
+  },
+  "160": {
+    "devblog": 160,
+    "date": "2017-05-18",
+    "protocol": 1987,
+    "commit_sha": "e028fdb7",
+    "repo": "OxideMod/Oxide",
+    "title": "Баланс тяжелой брони, навигация NPC",
+    "notes": "Весна 2017"
+  },
+  "162": {
+    "devblog": 162,
+    "date": "2017-06-01",
+    "protocol": 1989,
+    "commit_sha": "c95bfbaa",
+    "repo": "OxideMod/Oxide",
+    "title": "Космодром (Launch Site), танк Bradley APC",
+    "notes": "Лето 2017"
+  },
+  "165": {
+    "devblog": 165,
+    "date": "2017-06-22",
+    "protocol": 1993,
+    "commit_sha": "2c5109b8",
+    "repo": "OxideMod/Oxide",
+    "title": "Зажигательные и разрывные патроны",
+    "notes": "Лето 2017"
+  },
+  "170": {
+    "devblog": 170,
+    "date": "2017-07-27",
+    "protocol": 2005,
+    "commit_sha": "b2efec9a",
+    "repo": "OxideMod/Oxide",
+    "title": "Баланс ракет, ИИ танка Bradley",
+    "notes": "Лето 2017"
+  },
+  "175": {
+    "devblog": 175,
+    "date": "2017-08-31",
+    "protocol": 2016,
+    "commit_sha": "5543c988",
+    "repo": "OxideMod/Oxide",
+    "title": "Уничтожение танка Bradley, ящики с лутом",
+    "notes": "Лето 2017"
+  },
+  "180": {
+    "devblog": 180,
+    "date": "2017-10-05",
+    "protocol": 2024,
+    "commit_sha": "3a6066eb",
+    "repo": "OxideMod/Oxide",
+    "title": "Верстаки 1-3, возвращение чертежей (BP)",
+    "notes": "Эра верстаков и скрапа"
+  },
+  "183": {
+    "devblog": 183,
+    "date": "2017-10-26",
+    "protocol": 2027,
+    "commit_sha": "443c25e0",
+    "repo": "OxideMod/Oxide",
+    "title": "Хэллоуин 2017, нож мясника, пугало",
+    "notes": "Осень 2017"
+  },
+  "184": {
+    "devblog": 184,
+    "date": "2017-11-02",
+    "protocol": 2031,
+    "commit_sha": "5fcc1f69",
+    "repo": "OxideMod/Oxide",
+    "title": "Стулья, столы, туман войны на карте",
+    "notes": "Осень 2017"
+  },
+  "185": {
+    "devblog": 185,
+    "date": "2017-11-09",
+    "protocol": 2033,
+    "commit_sha": "d0b503ef",
+    "repo": "OxideMod/Oxide",
+    "title": "Гвоздомёт (Nailgun), финальный коммит Oxide",
+    "notes": "Окончание единого репозитория"
+  },
+  "186": {
+    "devblog": 186,
+    "date": "2017-11-16",
+    "protocol": 2035,
+    "commit_sha": "07e448b1",
+    "repo": "OxideMod/Oxide.Rust",
+    "title": "Переход на отдельный репозиторий Oxide.Rust",
+    "notes": "Новый репозиторий Oxide.Rust"
+  },
+  "190": {
+    "devblog": 190,
+    "date": "2017-12-14",
+    "protocol": 2043,
+    "commit_sha": "6aea5a87",
+    "repo": "OxideMod/Oxide.Rust",
+    "title": "Building 3.0 (Новая система стройки, полустены)",
+    "notes": "Зима 2017"
+  },
+  "195": {
+    "devblog": 195,
+    "date": "2018-01-18",
+    "protocol": 2051,
+    "commit_sha": "f18ab9ff",
+    "repo": "OxideMod/Oxide.Rust",
+    "title": "Бензопила, ученые NPC на дорогах",
+    "notes": "Начало 2018 года"
+  },
+  "198": {
+    "devblog": 198,
+    "date": "2018-02-01",
+    "protocol": 2054,
+    "commit_sha": "87ff6d5e",
+    "repo": "OxideMod/Oxide.Rust",
+    "title": "Предрелизный патч перед выходом из Early Access",
+    "notes": "Финальный бета-патч"
+  },
+  "199": {
+    "devblog": 199,
+    "date": "2018-02-08",
+    "protocol": 2057,
+    "commit_sha": "c4f1a92b",
+    "repo": "OxideMod/Oxide.Rust",
+    "title": "Выход Rust из раннего доступа (Out of Early Access)",
+    "notes": "Релиз 1.0"
+  },
+  "200": {
+    "devblog": 200,
+    "date": "2018-02-15",
+    "protocol": 2060,
+    "commit_sha": "08a5a226",
+    "repo": "OxideMod/Oxide.Rust",
+    "title": "Первый пострелизный девблог 200",
+    "notes": "Февраль 2018"
+  }
+}
